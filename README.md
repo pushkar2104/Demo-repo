@@ -1,4 +1,3 @@
 # Demo-repo
 The first hello world repo
-x = "Hello Pushkar"
-print x 
+Hi This is my first repo
